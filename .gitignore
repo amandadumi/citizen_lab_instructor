@@ -1,3 +1,17 @@
 __pycache__
 .ipynb_checkpoints
 
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.run.xml
+*.synctex.gz
+*.snm
+*.toc
+
